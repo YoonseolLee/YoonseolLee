@@ -26,7 +26,6 @@
 
 🏡 blog <br>
 https://blog.naver.com/gujueng32 <br>
-https://blog.naver.com/ryanlee_97
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thisyoon97)](https://solved.ac/백준아이디/)
